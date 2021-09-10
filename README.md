@@ -1,1 +1,2 @@
-# kaggle-kernels
+# Kaggle Kernels
+Repository for Kaggle kernels 
